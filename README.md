@@ -1,7 +1,7 @@
 # The Migthy Bush App
-We all love the nature and beauty of Aotearoa. One of the best pastimes in our country is to exploring the native flora and fauna via bushwalks! Our app will allow you to get the best out of Auckland's bush walks by saving your favourite trails, discovering new ones and levelling up your walking with our in-built progression system. We present to you, "The Mighty Bush!"
+We all love the nature and beauty of Aotearoa. One of the best pastimes in our country is to exploring the native flora and fauna via bushwalks! Our app will allow you to get the best out of Auckland's bush walks by saving your favourite trails, discovering new ones and levelling up your walking with our in-built progression system. We present to you, `The Mighty Bush!`
 
-Built in one week, by [Clementine](https://github.com/clementine-smart), [Finn](https://github.com/MsFinnJ), [Tiaan](https://github.com/tiaan-jonker), [Jesse](https://github.com/jesse-reeves) and [Tai](https://github.com/atmour-tai-mourie), as final project for [Enspiral Dev Academy](https://devacademy.co.nz/?gclid=Cj0KCQjwgYSTBhDKARIsAB8Kuktbb0DWX4Q7kk5pH-HMplNUiMBA60xYTWzpVqCMnxMTEKjYY5zl0_waAg0aEALw_wcB). We learned an incredible amount and had loads of fun creating it!
+Built in one week, by [Clementine](https://github.com/clementine-smart), [Finn](https://github.com/MsFinnJ), [Tiaan](https://github.com/tiaan-jonker), [Jesse](https://github.com/jesse-reeves) and [Tai](https://github.com/atmour-tai-mourie), as final project for [Dev Academy](https://devacademy.co.nz/?gclid=Cj0KCQjwgYSTBhDKARIsAB8Kuktbb0DWX4Q7kk5pH-HMplNUiMBA60xYTWzpVqCMnxMTEKjYY5zl0_waAg0aEALw_wcB). We learned an incredible amount and had loads of fun creating it!
 
 # Demo Video
 Please enjoy this demo video of the app we built:
@@ -25,6 +25,7 @@ In regards to the video: the music, editing, voiceover and recording were all do
 We built this as a web app with a mobile first design as you're less likely to take your entire PC out for a hike. It was created in React and in future we would love to turn it into a mobile app using React Native.
 
 ## Tech Stack
+- JavaScript
 - React
 - CSS
 - Express
@@ -32,6 +33,8 @@ We built this as a web app with a mobile first design as you're less likely to t
 - Knexjs
 - SQLite3
 - Insomnia
+- Jest
+- Testing Library
 
 ## Digital Tools
 - Figma
